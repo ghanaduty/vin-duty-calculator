@@ -68,8 +68,8 @@ function calculateDuty() {
     { code: "49", desc: "Import NHIL 2", rate: 2.5 },
     { code: "56", desc: "Network Charge NHIL", rate: 0 },
     { code: "72", desc: "Overage Penalty", rate: 0 },
-    { code: "78", desc: "IRS Tax Deposit", rate: 100 },
-    { code: "87", desc: "GHS Disinfection Fee", rate: 100 },
+    { code: "78", desc: "IRS Tax Deposit", rate: 1 },
+    { code: "87", desc: "GHS Disinfection Fee", rate: 1 },
     { code: "99", desc: "COVID-19 Health Recovery Levy", rate: 1 }
   ];
 
